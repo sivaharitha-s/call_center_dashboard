@@ -34,6 +34,10 @@ What is the total call duration and average call duration per day?
 
 What is the CSAT (Customer Satisfaction Score) rating?
 
+DASHBOARD
+
+![image_alt](https://github.com/sivaharitha-s/call_center_dashboard/blob/6c1a6ea669f1f1550e4ee70b1479ef7346c8e14f/Screenshot%202024-12-31%20170408.png)
+
 PROCESS
 
 DATA EXTRACTION:
